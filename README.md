@@ -8,6 +8,9 @@ I'm **Thuyet Bao**, a seasoned data professional with over 7 years of experience
 specializing in designing data architectures, engineering scalable solutions, modeling complex datasets,
 and uncovering insights through analytics.
 
+I run [**Space**](https://thuyetbao.github.io/space/) - a documentation website,
+where I share my thoughts, ideas, and experiments at the intersection of programming and finance.
+
 🍀 **Interesting topics:**
 
 - **Enterprise-grade applications** built atop semantic data networks and ontologies
@@ -33,8 +36,8 @@ and uncovering insights through analytics.
 - Programming Languages: Python
 - Orchestration & Workflow: Prefect, Compute Engine, Cloud Run
 - Databases: RDBMS (PostgreSQL, MySQL), Columnar (BigQuery, ClickHouse)
-- Cloud Platforms: Google Cloud Platform (GCP), AWS — including serverless, compute, storage, networking, and security services
-- Version Control: Git, GitHub
+- Cloud Platforms: GCP, AWS — including serverless, compute, storage, networking, and security services
+- Version Control: Git, GitHub, GitLab
 - Containerization: Docker, Docker Compose
 - Infrastructure as Code (IaC): Terraform, Ansible
 - CI/CD Tools: GitHub Actions, Cloud Build, CodeDeploy
@@ -58,3 +61,5 @@ and uncovering insights through analytics.
 📫 **Let’s Connect**
 
 - Email: [trthuyetbao@gmail.com](mailto:trthuyetbao@gmail.com)
+
+- Website: [thuyetbao.github.io/space/](https://thuyetbao.github.io/space/)

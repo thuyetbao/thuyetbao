@@ -11,6 +11,8 @@ and uncovering insights through analytics.
 I run [**Space**](https://thuyetbao.github.io/space/) - a documentation website,
 where I share my thoughts, ideas, and experiments at the intersection of programming and finance.
 
+📫 **Let’s Connect**: drop me messages throguh Gmail: [trthuyetbao@gmail.com](mailto:trthuyetbao@gmail.com) or GitHub: [thuyetbao](https://github.com/thuyetbao)
+
 🍀 **Interesting topics:**
 
 - **Enterprise-grade applications** built atop semantic data networks and ontologies
@@ -52,16 +54,4 @@ where I share my thoughts, ideas, and experiments at the intersection of program
 
 🎓 **Education**
 
-- University: University of Economics and Law
-
-  Mode of study: Bachelor's Degree
-
-  Major: Finance and Banking
-
-📫 **Let’s Connect**
-
-- Email: [trthuyetbao@gmail.com](mailto:trthuyetbao@gmail.com)
-
-- Website: [thuyetbao.github.io/space/](https://thuyetbao.github.io/space/)
-
-- GitHub: [thuyetbao](https://github.com/thuyetbao)
+Bachelor's degree in Finance and Banking at University of Economics and Law

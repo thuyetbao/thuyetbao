@@ -11,7 +11,8 @@ and uncovering insights through analytics.
 I run [**Space**](https://thuyetbao.github.io/space/) - a documentation website,
 where I share my thoughts, ideas, and experiments at the intersection of programming and finance.
 
-📫 **Let’s Connect**: drop me messages throguh Gmail: [trthuyetbao@gmail.com](mailto:trthuyetbao@gmail.com) or GitHub: [thuyetbao](https://github.com/thuyetbao)
+📫 **Let’s Connect**: drop me messages throguh Gmail: [trthuyetbao@gmail.com](mailto:trthuyetbao@gmail.com)
+or GitHub: [thuyetbao](https://github.com/thuyetbao)
 
 🍀 **Interesting topics:**
 
@@ -36,9 +37,9 @@ where I share my thoughts, ideas, and experiments at the intersection of program
 🎏 **Tools & Program:**
 
 - Programming Languages: Python
+- Cloud Platforms: GCP, AWS — including serverless, compute, storage, networking, and security services
 - Orchestration & Workflow: Prefect, Compute Engine, Cloud Run
 - Databases: RDBMS (PostgreSQL, MySQL), Columnar (BigQuery, ClickHouse)
-- Cloud Platforms: GCP, AWS — including serverless, compute, storage, networking, and security services
 - Version Control: Git, GitHub, GitLab
 - Containerization: Docker, Docker Compose
 - Infrastructure as Code (IaC): Terraform, Ansible
